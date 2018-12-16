@@ -1,4 +1,6 @@
-# Instrcutions to create an Azure function
+# Instrcutions: Creating an Azure function that is called from SharePoint list.
+
+
 
 ## Important warning: Azure function V2 does not support SharePoint CSOM.
 
@@ -90,7 +92,7 @@ public static async Task<object> Run(HttpRequestMessage req, ILogger log)
 {
     //log.LogInformation($"Webhook was triggered!");
     //await ConnectToSharePointAndSendEmail(log);
-    string validationToken = req.GetQueryNameValuePairs().FirstOrDefault(q => string.Compare(q.Key, "validationtoken", true) == 0).Value; 
+    string validationToken = req.GetQueryNameValuePairs().FirstOrDefault(q Instrcutions to create an Azure function=> string.Compare(q.Key, "validationtoken", true) == 0).Value; 
     string message = req.GetQueryNameValuePairs().FirstOrDefault(q => string.Compare(q.Key, "message", true) == 0).Value;
 
     // This is just for registration:

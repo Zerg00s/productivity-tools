@@ -2,8 +2,6 @@
 
 List of popular productivity tools for SharePoint.
 
-Sample files used for the presentation at the Toronto SharePoint User group: Productivity tools for SharePoint Administrators and Developers
-
 ---
 ## List of Tools:
 
@@ -18,3 +16,6 @@ Sample files used for the presentation at the Toronto SharePoint User group: Pro
 | [SP Go](https://marketplace.visualstudio.com/items?itemName=SiteGo.spgo) | ![](images/spGo.png) | VS Code extension. Develop SharePoint web solutions from your local PC using the power of Visual Studio Code. Now you can build SharePoint sites and customizations source-control first with all of the power of a top-tier IDE. Produce cleaner code, deliver faster. | 
 | [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en) | ![](images/modHeader.png)  | Chrome extension. Use it to inject `Accept: application/json;odata=verbose` header. Forces SharePoint REST endpoints to return JSON instead of XML. Use it together with the [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) extension for the best effect.   |
 | [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)  | ![](images/jsonViewer.png) | Chrome extension. The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen |
+
+
+Sample scripts and files are also includes in the [/scripts/ folder](/scripts/).
