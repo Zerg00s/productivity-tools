@@ -20,14 +20,12 @@ SP.SOD.executeFunc("clienttemplates.js", "SPClientTemplates", function () {
                     },
                     "Grade": {
                         View: function (ctx) {
-                            //console.log(ctx.CurrentItem[ctx.CurrentFieldSchema.Name], ctx.CurrentFieldSchema.Name);
                           	
                             return `<div class='pieContainer'><div class='pieBackground'></div><div id='pieSlice${ctx.CurrentItem[ctx.CurrentFieldSchema.Name]}' class='hold'><div class='pie'></div></div><div class='innerCircle'><div class='content'>${ctx.CurrentItem[ctx.CurrentFieldSchema.Name]}</div></div></div> `
                         },
                     },
                     "Expert": {
                         View: function (ctx) {
-                            //console.log(ctx.CurrentItem[ctx.CurrentFieldSchema.Name], ctx.CurrentFieldSchema.Name);
                           if (ctx.CurrentItem[ctx.CurrentFieldSchema.Name] === 'Yes'){
                             return `<input type='checkbox' checked disabled>`
                           }else{
