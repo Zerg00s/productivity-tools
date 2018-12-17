@@ -3,8 +3,6 @@
 
 ![](images/columnFormatterSample.png)
 
-
-
 ### Skill - bar chart
 ```json
 {
