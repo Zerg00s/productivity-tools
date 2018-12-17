@@ -6,7 +6,7 @@
 
 Azure functions V2 use .net core that is not compatible with SharePoint CSOM libraries. This is why we need to make sure Azure function is using the older, V1 version.
 
-You can only change the runtime version to V1 after you create your function app but before you add any functions. To learn how to pin the runtime version to 1.x, see [View and update the current runtime version](https://docs.microsoft.com/en-us/azure/azure-functions/set-runtime-version#view-and-update-the-current-runtime-version).
+You can only change the runtime version to V1 after you create your function app but before you add any functions. To learn how to pin the runtime version to 1.x, see [View and update the current runtime version](https://docs.microsoft.com/en-us/azure/azure-functions/set-runtime-version#view-and-update-the-current-runtime-version).x
 
 ![](images/functionApp.png)
 

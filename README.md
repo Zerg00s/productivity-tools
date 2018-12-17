@@ -3,7 +3,7 @@
 List of popular productivity tools for SharePoint.
 
 ---
-## List of Tools:
+## List of Free Tools
 
 | Name | Image | Description
 | ---- | ----- | ------------------ |
@@ -18,4 +18,12 @@ List of popular productivity tools for SharePoint.
 | [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)  | ![](images/jsonViewer.png) | Chrome extension. The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen |
 
 
-Sample scripts and files are also includes in the [/scripts/ folder](/scripts/).
+Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
+
+## Which tools should I use?
+
+| Old tool | Suggested alternative |
+| -------- | --------------------- |
+| SharePoint Designer 2013 | SP Editor, SP Go  |
+| SharePoint Manager 2013 | SP Insider |
+| U2U Caml builder| Caml JS Console |
