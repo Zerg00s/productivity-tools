@@ -13,7 +13,9 @@ List of popular productivity tools for SharePoint.
 | [Caml JS Console](https://chrome.google.com/webstore/detail/camljs-console/ohjcpmdjfihchfhkmimcbklhjdphoeac?hl=en) | ![](images/campljs.png) | CamlJS Console with live preview. Free and open source development console for creating SharePoint CAML queries, with live preview against real lists and libraries. Uses CamlJs syntax. |
 | [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en) | ![](images/speditor.png) | This tool will help you create amazing SharePoint applications fast from your browser from any computer which runs Chrome! |
 | [Column formatter](https://github.com/SharePoint/sp-dev-solutions/tree/master/solutions/ColumnFormatter) | ![](images/columnFormatter.png) | SPFx webpart. Full power of VS Code editing while providing easy to use templates and wizards all within the browser! The goal is to make writing and applying Column Formatting easier and quicker for both developers and end users. |
+| [SP Formatter](https://chrome.google.com/webstore/detail/sp-formatter/fmeihfaddhdkoogipahfcjlicglflkhg?hl=en) | ![](images/sp-formatter.png) | Chrome extension. Customize your SharePoint Column or View Formatting JSON using full-featured editor instead of default one.  |
 | [SP Go](https://marketplace.visualstudio.com/items?itemName=SiteGo.spgo) | ![](images/spGo.png) | VS Code extension. Develop SharePoint web solutions from your local PC using the power of Visual Studio Code. Now you can build SharePoint sites and customizations source-control first with all of the power of a top-tier IDE. Produce cleaner code, deliver faster. | 
+| [SPPP Generator](https://github.com/koltyakov/generator-sppp) | ![](images/sppp-generator.png) | Yeoman generator for SharePoint - lets you quickly set up a project with sensible defaults for pulling and pushing files between SharePoint asset library and local projects sources. | 
 | [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en) | ![](images/modHeader.png)  | Chrome extension. Use it to inject `Accept: application/json;odata=verbose` header. Forces SharePoint REST endpoints to return JSON instead of XML. Use it together with the [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) extension for the best effect.   |
 | [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)  | ![](images/jsonViewer.png) | Chrome extension. The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen |
 
@@ -24,6 +26,6 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 
 | Old tool | Suggested alternative |
 | -------- | --------------------- |
-| SharePoint Designer 2013 | SP Editor, SP Go  |
+| SharePoint Designer 2013 | SP Editor, SP Go, SPPP Generator  |
 | SharePoint Manager 2013 | SP Insider |
 | U2U Caml builder| Caml JS Console |
