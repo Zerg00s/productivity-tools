@@ -2,7 +2,6 @@
 
 List of popular productivity tools for SharePoint.
 
----
 # List of Free Tools
 
 Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
@@ -31,7 +30,7 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 | Name | Image | Description
 | ---- | ----- | ------------------ |
 | [SPPP Generator](https://github.com/koltyakov/generator-sppp) | ![](images/sppp-generator.png) | Yeoman generator for SharePoint - lets you quickly set up a project with sensible defaults for pulling and pushing files between SharePoint asset library and local projects sources. | 
-| [SPPP Generator](https://github.com/pnp/generator-spfx) | ![](images/sppp-generator.png) | This Yeoman generator provides improved governance for SharePoint Framework projects. It extends the out of the box Yeoman generator from Microsoft (@microsoft/generator-sharepoint) with recommended patterns and additional capabilities. | 
+| [PnP SPFx generator](https://github.com/pnp/generator-spfx) | ![](images/pnp-generator-spfx.png) | This Yeoman generator provides improved governance for SharePoint Framework projects. It extends the out of the box Yeoman generator from Microsoft (@microsoft/generator-sharepoint) with recommended patterns and additional capabilities. | 
 
 
 ## VS Code plugins
