@@ -24,6 +24,8 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 | Name | Image | Description
 | ---- | ----- | ------------------ |
 | [Column formatter](https://github.com/SharePoint/sp-dev-solutions/tree/master/solutions/ColumnFormatter) | ![](images/columnFormatter.png) | SPFx webpart. Full power of VS Code editing while providing easy to use templates and wizards all within the browser! The goal is to make writing and applying Column Formatting easier and quicker for both developers and end users. |
+| [Reusable SPO CSS classess](https://zerg00s.github.io/sp-modern-classes) | ![](images/Modern-SPO-Classess.png) | Reusable SharePoint Online CSS Classess for Modern UI. You can use it to develop column formatting customizations or your custom SPFx webparts. |
+
 
 
 ## Yeoman generators
@@ -37,6 +39,7 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 | Name | Image | Description
 | ---- | ----- | ------------------ |
 | [SP Go](https://marketplace.visualstudio.com/items?itemName=SiteGo.spgo) | ![](images/spGo.png) | VS Code extension. Develop SharePoint web solutions from your local PC using the power of Visual Studio Code. Now you can build SharePoint sites and customizations source-control first with all of the power of a top-tier IDE. Produce cleaner code, deliver faster. | 
+| [SharePoint Typed Item](https://marketplace.visualstudio.com/items?itemName=s-kainet.sharepoint-typed-item) | ![](images/sptyped-item.png) | VS Code extension. Generates TypeScript interfaces based on SharePoint data. A high quality, must-have extension developed by Sergei Sergeev. Quote from one of the users: "I followed the configuration steps and managed to get the extension working in a matter of minutes, having the ability to read/build the types directly from SharePoint.WOW, what a timesaver!!!!!!!!" | 
 
 
 ## Windows apps
@@ -62,4 +65,10 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 
 
 ## Even more awesome tools
+### Ultimate Developer Tool List for SPFx
+![Ultimate list](images/Untimate-list-Hugo.png)
+
+[Ultimate Developer Tool List for SPFx](https://tahoeninjas.blog/2019/03/14/ultimate-developer-tool-list-for-spfx/). Fantastic list of productivity tools by [Hugo Bernier, @bernierh](https://twitter.com/bernierh?lang=en).
+
+### Other 
 [Other, non-SharePoint tools](more-tools/RAEDME.md)
