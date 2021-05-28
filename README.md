@@ -66,7 +66,7 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 
 ## Even more awesome tools
 ### Ultimate Developer Tool List for SPFx
-![Ultimate list](images/Untimate-list-Hugo.png)
+[![Ultimate list](images/Untimate-list-Hugo.png)](https://tahoeninjas.blog/2019/03/14/ultimate-developer-tool-list-for-spfx/)
 
 [Ultimate Developer Tool List for SPFx](https://tahoeninjas.blog/2019/03/14/ultimate-developer-tool-list-for-spfx/). Fantastic list of productivity tools by [Hugo Bernier, @bernierh](https://twitter.com/bernierh?lang=en).
 
