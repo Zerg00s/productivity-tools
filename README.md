@@ -1,4 +1,4 @@
-# SharePoint produtivity tools
+# SharePoint productivity tools
 
 List of popular productivity tools for SharePoint.
 
