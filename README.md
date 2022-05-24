@@ -53,7 +53,7 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 | ---- | ----- | ------------------ |
 | [UI Fabric Theme Designer](https://fabricweb.z5.web.core.windows.net/pr-deploy-site/refs/pull/8933/merge/theming-designer/index.html) | ![](images/UI-Fabric-Theme-Designer.png)| By far the best way to generate modern Theme for SharePoint Online | 
 | [Reusable SPO CSS classess](https://zerg00s.github.io/sp-modern-classes) | ![](images/Modern-SPO-Classess.png) | Reusable SharePoint Online CSS Classess for Modern UI. You can use it to develop column formatting customizations or your custom SPFx webparts. |
-| [SharePoint Site Designer](https://www.sitedesigner.io) | ![](![image](https://user-images.githubusercontent.com/2797648/170056563-ee710ab0-8ce2-4cd5-9126-6f16f5ff8563.png)) | Visual browser-based tool by (David Go)[https://github.com/sitedesigner] for creating site scripts. This tool is amazing and really makes site scripts more accessible. |
+| [SharePoint Site Designer](https://www.sitedesigner.io) | ![](https://user-images.githubusercontent.com/2797648/170056563-ee710ab0-8ce2-4cd5-9126-6f16f5ff8563.png) | Visual browser-based tool by [David Go](https://github.com/sitedesigner) for creating site scripts. This tool is amazing and really makes site scripts more accessible. |
 
 
 ### Which tools should I use?
