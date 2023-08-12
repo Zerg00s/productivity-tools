@@ -57,10 +57,8 @@ Sample scripts and files are also included in the [/scripts/ folder](/scripts/).
 | [SharePoint Site Designer](https://www.sitedesigner.io) | ![](https://user-images.githubusercontent.com/2797648/170056563-ee710ab0-8ce2-4cd5-9126-6f16f5ff8563.png) | Visual browser-based tool by [David Go](https://github.com/site) for creating site scripts. This tool is amazing and really makes site scripts more accessible. |
 | [List Formatting Samples](https://pnp.github.io/List-Formatting)| ![](https://user-images.githubusercontent.com/2797648/170763813-d2b9e090-07e0-4c65-9ab0-ca9ba81f8f01.png)| You can use List Formatting to customize how fields and views in SharePoint lists and libraries are displayed. List Formatting is applied by constructing a JSON object that describes the elements that are displayed for a field or view and the styles to be applied to those elements. |
 | [HTML To Formatter](https://pnp.github.io/List-Formatting/tools/html-formatter-generator/)| <img width="117" alt="image" src="https://user-images.githubusercontent.com/2797648/170763533-365647e4-63f8-446f-b3b2-561b1e55e929.png"> |  Most developers are used to writing HTML rather than JSON. This tool can help building a formatter from a given HTML. You can even put in some CSS to get inline styles populated. This tool does not recognize expressions, but you can write expression strings in place of any attribute value and it will be put as-is on the generated JSON. |
-| [Flicon - Fluent UI Icon Search](https://www.flicon.io) | <img width="117" alt="image" src="./images/FliCon.png"> |  This tool is using icons from @fluentui
-The set of icons is always growing. |
-
-| [SharePoint look book](https://lookbook.microsoft.com/#templates)| <img width="117" alt="image" src="./images/LookBook.png"> | Discover the modern experiences you can build with SharePoint in Microsoft 365. |
+| [Flicon - Fluent UI Icon Search](https://www.flicon.io) | <img width="117" alt="image" src="./images/FliCon.png"> |  This tool is using icons from @fluentui The set of icons is always growing. |
+|[SharePoint look book](https://lookbook.microsoft.com/#templates)| <img width="117" alt="image" src="./images/LookBook.png"> | Discover the modern experiences you can build with SharePoint in Microsoft 365. |
 
 
 ### Which tools should I use?
